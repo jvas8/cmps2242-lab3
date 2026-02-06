@@ -1,0 +1,7 @@
+# Go build artifacts
+*.test
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
